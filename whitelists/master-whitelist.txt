@@ -213,3 +213,5 @@ lptag.liveperson.net
 
 # regex entries
 (\.|^)liveperson\.net$
+(\.|^)aklamio\.com$
+(\.|^)tiqcdn\.com$
