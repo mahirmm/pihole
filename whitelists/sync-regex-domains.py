@@ -10,8 +10,8 @@ PIHOLE_URL_base = "http://192.168.10.134:8080/api"
 PIHOLE_URL = "http://192.168.10.134:8080/api/domains/allow/regex"
 payload_creds = {"password": "shaolin"}  # your password
 
-DOMAINS_URL = "https://raw.githubusercontent.com/mahirmm/whitelist-pihole/refs/heads/master/domains/whitelist.txt"
-COMMENTS_URL = "https://raw.githubusercontent.com/mahirmm/whitelist-pihole/refs/heads/master/domains/master-whitelist-comments.txt"
+DOMAINS_URL = "https://raw.githubusercontent.com/mahirmm/pihole/refs/heads/main/whitelists/master-whitelist.txt"
+COMMENTS_URL = "https://raw.githubusercontent.com/mahirmm/pihole/refs/heads/main/whitelists/master-whitelist-comments.txt"
 
 GROUPS = [0, 1]
 
