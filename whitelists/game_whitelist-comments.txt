@@ -1,16 +1,12 @@
-track.saygames.io
-ms.applovin.com
-b5vbk6-cdn-settings.appsflyersdk.com
-coins.fraud.adjoe.zone
-b5vbk6-inapps.appsflyersdk.com
-b5vbk6-launches.appsflyersdk.com
-prod.adjoe.zone
-Applovin.com
-Imobi.com
-Scorecardresearch.com
-Tapjoy.com
-app-measurement.com
-Unity3d.com
-everestop.io
-blueduckredapple.com
-thecatmachine.com
+(\.|^)saygames\.io$ | GameADs
+(\.|^)applovin\.com$ | GameADs
+(\.|^)appsflyersdk\.com$ | GameADs
+(\.|^)adjoe\.zone$ | GameADs
+(\.|^)Imobi\.com$ | GameADs
+(\.|^)Scorecardresearch\.com$ | GameADs
+(\.|^)Tapjoy\.com$ | GameADs
+(\.|^)app-measurement\.com$ | GameADs
+(\.|^)Unity3d\.com$ | GameADs
+(\.|^)everestop\.io$ | GameADs
+(\.|^)blueduckredapple\.com$ | GameADs
+(\.|^)thecatmachine\.com$ | GameADs
