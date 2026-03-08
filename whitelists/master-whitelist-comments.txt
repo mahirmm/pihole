@@ -215,3 +215,4 @@ lptag.liveperson.net
 (\.|^)liveperson\.net$ | Live Chats
 (\.|^)aklamio\.com$ | Web Referrals
 (\.|^)tiqcdn\.com$ | CDN.js
+(\.|^)mtgglobals\.com$ | Mobile ADs
