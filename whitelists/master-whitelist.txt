@@ -215,3 +215,4 @@ lptag.liveperson.net
 (\.|^)liveperson\.net$
 (\.|^)aklamio\.com$
 (\.|^)tiqcdn\.com$
+(\.|^)mtgglobals\.com$
