@@ -210,6 +210,7 @@ audid-api.taobao.com
 aax-eu-zaz.amazon.co.uk
 adfoc.us
 lptag.liveperson.net
+sponsored-ads.amazon.co.uk
 
 # regex entries
 (\.|^)liveperson\.net$
